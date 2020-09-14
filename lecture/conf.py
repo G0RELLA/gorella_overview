@@ -16,7 +16,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'gorella_base'
+project = 'gorella_overview'
 copyright = '2020, G0RELLA'
 author = 'Peer Herholz, Jose Alanis, Christoph Vogelbacher'
 
@@ -48,7 +48,7 @@ autosectionlabel_prefix_document = True
 # a list of builtin themes.
 
 html_theme = 'sphinx_book_theme'
-html_title = "Gorella-Base"
+html_title = "Gorella-overview"
 html_logo = "_static/"
 html_theme_options = {
     "show_prev_next": True,
@@ -56,7 +56,7 @@ html_theme_options = {
 }
 html_context = {
     "github_user": "G0RELLA",
-    "github_repo": "gorella_base",
+    "github_repo": "gorella_overview",
     "github_version": "master",
     "doc_path": "./walkthrough",
 }
