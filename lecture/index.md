@@ -17,6 +17,7 @@ symposium.md
 projects.md
 questionnaires.md
 tutorial.md
+CoC.md
 ```
 
 ## "What's all this now?"
