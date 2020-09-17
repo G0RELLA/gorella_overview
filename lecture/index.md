@@ -16,6 +16,7 @@ results_communication.md
 symposium.md
 projects.md
 questionnaires.md
+base.md
 tutorial.md
 CoC.md
 ```
@@ -64,6 +65,10 @@ As you can see at the TOC on the left sidebar, there's quite a bunch going on he
 * [Questionnaires](https://gorella.netlify.app/questionnaires.html)
 
    Was it worth it and how can this be evaluated?
+   
+* [The GORELLA base skeleton](https://gorella.netlify.app/base.html)
+
+   Where are the materials?   
 
 * [GORELLA tutorial](https://gorella.netlify.app/tutorial.html)
 
