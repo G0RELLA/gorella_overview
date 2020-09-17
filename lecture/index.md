@@ -29,49 +29,49 @@ we would like to present and describe a framework for a "Generalizable Outline o
 
 As you can see at the TOC on the left sidebar, there's quite a bunch going on here. We know, we know: "Oh my, is all of this really necessary?". Well, we think so and here's why: creating structural changes in the empirical training of students via a complex framework needs time, effort, details and dedication. To increase openess and substainability and thus ultimately the success, these things need to be prepared and supplied in a way that they are [FAIR](https://en.wikipedia.org/wiki/FAIR_data) for as many people as possible. Therefore, we want to provide as much information as possible, in a goaloriented manner. We gave our best to condense the last five years of our lives to something y'all can make use and sense of. The result is the already mentioned TOC, which includes the following sections:
 
-#### [GORELLA - an overview](https://gorella.netlify.app/overview.html)
+* [GORELLA - an overview](https://gorella.netlify.app/overview.html)
 
-What's the problem and how are we propose to solve it? 
+   What's the problem and how are we propose to solve it? 
 
-#### [General procedure](https://gorella.netlify.app/procedure.html)
+* [General procedure](https://gorella.netlify.app/procedure.html)
 
-How are things implemented and supposed to work? 
+   How are things implemented and supposed to work? 
 
-#### [General outline](https://gorella.netlify.app/outline.html)
+* [General outline](https://gorella.netlify.app/outline.html)
 
-What are the specific topics and aspects taught?
+   What are the specific topics and aspects taught?
 
-#### [Introduction & theory building](https://gorella.netlify.app/introduction_theory_building.html)
+* [Introduction & theory building](https://gorella.netlify.app/introduction_theory_building.html)
 
-All things gotta start somewhere and scientific projects are no exception to that, but how?
+   All things gotta start somewhere and scientific projects are no exception to that, but how?
 
-#### [Data analyses](https://gorella.netlify.app/data_analyses.html)
+* [Data analyses](https://gorella.netlify.app/data_analyses.html)
 
-How to obtain insights from data?
+   How to obtain insights from data?
 
-#### [Results communication](https://gorella.netlify.app/results_communication.html)
+* [Results communication](https://gorella.netlify.app/results_communication.html)
 
-Where should the acquired knowledge to be disseminated?
+   Where should the acquired knowledge to be disseminated?
 
-##### [Symposium](https://gorella.netlify.app/symposium.html)
+* [Symposium](https://gorella.netlify.app/symposium.html)
 
-What to do about outreach and discourse creation?
+   What to do about outreach and discourse creation?
 
-#### [Student projects](https://gorella.netlify.app/projects.html)
+* [Student projects](https://gorella.netlify.app/projects.html)
 
-Making sure the work and progress of the participants is transparent and documented. 
+   Making sure the work and progress of the participants is transparent and documented. 
 
-#### [Questionnaires](https://gorella.netlify.app/questionnaires.html)
+* [Questionnaires](https://gorella.netlify.app/questionnaires.html)
 
-Was it worth it and how can this be evaluated?
+   Was it worth it and how can this be evaluated?
 
-#### [GORELLA tutorial](https://gorella.netlify.app/tutorial.html)
+* [GORELLA tutorial](https://gorella.netlify.app/tutorial.html)
 
-Are there guidelines on how to start?
+   Are there guidelines on how to start?
 
-#### [Code of Conduct](https://gorella.netlify.app/coc)
+* [Code of Conduct](https://gorella.netlify.app/coc)
 
-Necessities for creating an open, fair, safe and inclusive learning experience. 
+   Necessities for creating an open, fair, safe and inclusive learning experience. 
 
 
 ## The folks and their motivation
