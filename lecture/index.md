@@ -23,15 +23,55 @@ CoC.md
 ## Welcome
 
 Hello everyone and welcome the overview and documenation page of GORELLA, we're excited you're here! Within these pages,
-we would like to present and describe a framework for a "Generalizable Outline of Realistic Empirical research Lectures in Life Science and their Applications" or in short GORELLA. Not only is this a great abbreviation, but hopefully also reminds people that we need to do something now to save the Gorilla as a species (for more information please check [http://igcp.org/](http://igcp.org/) and [https://www.wwf.org.uk/get-involved/schools/calendar/world-gorilla-day](https://www.wwf.org.uk/get-involved/schools/calendar/world-gorilla-day)). The 1-2-3 of all this here is that we wanted to create a [FAIR](https://en.wikipedia.org/wiki/FAIR_data) resource targeting the empirical training of students in a standardized, fair, open and inclsuive manner. Furthermore, it is made in a way that supports interdisciplinarity and straightforward transfer, as well adaptation between different life sciences.  
+we would like to present and describe a framework for a "Generalizable Outline of Realistic Empirical research Lectures in Life Science and their Applications" or in short GORELLA. Not only is this a great abbreviation, but hopefully also reminds people that we need to do something now to save the Gorilla as a species (for more information please check [http://igcp.org/](http://igcp.org/) and [https://www.wwf.org.uk/get-involved/schools/calendar/world-gorilla-day](https://www.wwf.org.uk/get-involved/schools/calendar/world-gorilla-day)). The 1-2-3 of all this here is that we wanted to create a [FAIR](https://en.wikipedia.org/wiki/FAIR_data) resource targeting the empirical training of students in a standardized, fair, open and inclusive manner. Furthermore, it is made in a way that supports interdisciplinarity and straightforward transfer, as well adaptation between different life sciences. We hope you'll find it useful and set up in comprehensive way. If you have any questions, problems or feedback, please don't hesitate to get in touch with us.
 
-## The situation
+## What's all this now?
 
+As you can see at the TOC on the left sidebar, there's quite a bunch going on here. We know, we know: "Oh my, is all of this really necessary?". Well, we think so and here's why: creating structural changes in the empirical training of students via a complex framework needs time, effort, details and dedication. To increase openess and substainability and thus ultimately the success, these things need to be prepared and supplied in a way that they are [FAIR](https://en.wikipedia.org/wiki/FAIR_data) for as many people as possible. Therefore, we want to provide as much information as possible, in a goaloriented manner. We gave our best to condense the last five years of our lives to something y'all can make use and sense of. The result is the already mentioned TOC, which includes the following sections:
 
+#### [GORELLA - an overview](https://gorella.netlify.app/overview.html)
 
+What's the problem and how are we propose to solve it? 
 
-## The proposed solution
+#### [General procedure](https://gorella.netlify.app/procedure.html)
 
+How are things implemented and supposed to work? 
+
+#### [General outline](https://gorella.netlify.app/outline.html)
+
+What are the specific topics and aspects taught?
+
+#### [Introduction & theory building](https://gorella.netlify.app/introduction_theory_building.html)
+
+All things gotta start somewhere and scientific projects are no exception to that, but how?
+
+#### [Data analyses](https://gorella.netlify.app/data_analyses.html)
+
+How to obtain insights from data?
+
+#### [Results communication](https://gorella.netlify.app/results_communication.html)
+
+Where should the acquired knowledge to be disseminated?
+
+##### [Symposium](https://gorella.netlify.app/symposium.html)
+
+What to do about outreach and discourse creation?
+
+#### [Student projects](https://gorella.netlify.app/projects.html)
+
+Making sure the work and progress of the participants is transparent and documented. 
+
+#### [Questionnaires](https://gorella.netlify.app/questionnaires.html)
+
+Was it worth it and how can this be evaluated?
+
+#### [GORELLA tutorial](https://gorella.netlify.app/tutorial.html)
+
+Are there guidelines on how to start?
+
+#### [Code of Conduct](https://gorella.netlify.app/coc)
+
+Necessities for creating an open, fair, safe and inclusive learning experience. 
 
 
 ## The folks and their motivation
