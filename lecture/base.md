@@ -1,0 +1,2 @@
+# The GORELLA base skeleton
+
