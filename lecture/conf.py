@@ -49,7 +49,7 @@ autosectionlabel_prefix_document = True
 
 html_theme = 'sphinx_book_theme'
 html_title = "Gorella-overview"
-html_logo = "_static/"
+html_logo = "static/gorella_logo.png"
 html_theme_options = {
     "show_prev_next": True,
     "search_bar_text": "Search the walkthrough ..."
