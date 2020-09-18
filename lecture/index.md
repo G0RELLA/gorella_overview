@@ -1,4 +1,4 @@
-# Generalizable Outline of Realistic Empirical research Lectures in Life Science and their Applications - GORELLA
+![gorella logo](https://github.com/G0RELLA/gorella_overview/blob/master/lecture/static/gorella_logo.png)
 
 ```{toctree}
 ---
