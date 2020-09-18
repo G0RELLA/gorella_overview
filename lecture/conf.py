@@ -48,7 +48,7 @@ autosectionlabel_prefix_document = True
 # a list of builtin themes.
 
 html_theme = 'sphinx_book_theme'
-html_title = "Gorella-overview"
+html_title = ""
 html_logo = "static/gorella_logo.png"
 html_theme_options = {
     "show_prev_next": True,
