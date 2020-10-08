@@ -17,3 +17,6 @@
 
 ## Outcomes
 
+### Updated/final preregistration	
+
+### Jupyter notebooks and walk-throughs
