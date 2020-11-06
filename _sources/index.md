@@ -5,24 +5,12 @@ hidden: true
 includehidden: true
 titlesonly: true
 ---
-Home <self>
-overview.md
-procedure.md
-outline.md
-introduction_theory_building.md
-data_analyses.md
-results_communication.md
-symposium.md
-projects.md
-questionnaires.md
-base.md
-tutorial.md
-CoC.md
 ```
 
 
-
 ![gorella logo](static/gorella_logo.png)
+
+# Welcome  
 
 Hello everyone and welcome the overview and documenation page of GORELLA, we're excited you're here! Within these pages,
 we would like to present and describe a framework for a "Generalizable Outline of Realistic Empirical research Lectures in Life Science and their Applications" or in short GORELLA. Not only is this a great abbreviation, but hopefully also reminds people that we need to do something now to save the Gorilla as a species (for more information please check [http://igcp.org/](http://igcp.org/) and [https://www.wwf.org.uk/get-involved/schools/calendar/world-gorilla-day](https://www.wwf.org.uk/get-involved/schools/calendar/world-gorilla-day)). The 1-2-3 of all this here is that we wanted to create a [FAIR](https://en.wikipedia.org/wiki/FAIR_data) resource targeting the empirical training of students in a standardized, fair, open and inclusive manner. Furthermore, it is made in a way that supports interdisciplinarity and straightforward transfer, as well adaptation between different life sciences. We hope you'll find it useful and set up in comprehensive way. If you have any questions, problems or feedback, please don't hesitate to get in touch with us.
@@ -35,11 +23,11 @@ As you can see at the TOC on the left sidebar, there's quite a bunch going on he
 
 * [GORELLA - an overview](https://gorella.netlify.app/overview.html)
 
-   What's the problem and how are we propose to solve it? 
+   What's the problem and how are we propose to solve it?
 
 * [General procedure](https://gorella.netlify.app/procedure.html)
 
-   How are things implemented and supposed to work? 
+   How are things implemented and supposed to work?
 
 * [General outline](https://gorella.netlify.app/outline.html)
 
@@ -63,12 +51,12 @@ As you can see at the TOC on the left sidebar, there's quite a bunch going on he
 
 * [Student projects](https://gorella.netlify.app/projects.html)
 
-   Making sure the work and progress of the participants is transparent and documented. 
+   Making sure the work and progress of the participants is transparent and documented.
 
 * [Questionnaires](https://gorella.netlify.app/questionnaires.html)
 
    Was it worth it and how can this be evaluated?
-   
+
 * [The GORELLA base skeleton](https://gorella.netlify.app/base.html)
 
    Where are the materials?   
@@ -79,7 +67,7 @@ As you can see at the TOC on the left sidebar, there's quite a bunch going on he
 
 * [Code of Conduct](https://gorella.netlify.app/coc)
 
-   Necessities for creating an open, fair, safe and inclusive learning experience. 
+   Necessities for creating an open, fair, safe and inclusive learning experience.
 
 
 ## The folks and their motivation
