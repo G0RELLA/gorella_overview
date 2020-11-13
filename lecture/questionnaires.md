@@ -101,10 +101,4 @@ didn't experience any difficulties, please tell us what the most
 helpful/insightful part of the training/lecture was for you (< 100 words):
 
 | **(free text)** |
-|:-------------:|
-
-
-
-
-
-
+|:---------------:|
