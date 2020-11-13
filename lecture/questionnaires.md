@@ -13,12 +13,17 @@ Here, we provide a standardised method for the assessment of this type of
 characteristics as students progress throughout the development of their
 own projects.
 
-We consider it to be crucial to assess already a the beginning
+We consider it to be crucial to assess already at the beginning
 of a training session and/or lecture how much students know about the topic and
-how confident the feel about applying these methods on the own, previous
+how confident they feel about applying these methods on their own, prior
 to receiving any formal training. This provides a estimate of the students
 baseline level, making it easier to evaluate their individual progress during
 the project.
+
+The assessment consist of:
+1) A general evaluation of the participants satisfaction and progress
+through their projects. This part can be applied at key points
+throughout lectures for instance (e.g., at midterm, at the end, etc.).
 
 Thus, the questionnaire assessment it separated in to two sections, before and
 after the training session. The specific topics and project steps are
