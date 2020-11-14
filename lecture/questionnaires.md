@@ -35,7 +35,7 @@ questions 2.1) and 2.2) are designed to be answered by the students
 prior to any specific training session and allow a closer look at the
 their degree of "preparedness" and confidence in the topic.
 Questions 2.3) to 2.9) target students' satisfaction with didactics and
-content, but also experienced difficulties during the training.
+content, but also experienced difficulties during the training session.
 The specific topics and project steps are interchangeable as indicated by 
 the *<topic_of_interest>* placeholders in the templates below.
 
