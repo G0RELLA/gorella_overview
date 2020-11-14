@@ -158,7 +158,8 @@ the training/lecture?
 | (1)                | (2) | (3) | (4) | (5) | (6) | (7)               |
 
 **2.9)** What was the most challenging part of the training/lecture?
-Did something in particular helped you master these challenges? If you
+Did something in particular helped you master these challenges? Did you
+miss anything that might have helped you overcome these issues? If you
 didn't experience any difficulties, please tell us what the most 
 helpful/insightful part of the training/lecture was for you (< 100 words):
 
