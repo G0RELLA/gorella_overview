@@ -39,6 +39,13 @@ content, but also experienced difficulties during the training.
 The specific topics and project steps are interchangeable as indicated by 
 the *<topic_of_interest>* placeholders in the templates below.
 
+For an example of some of the assessment questions and question types 
+"in action" see the following [Template](https://forms.gle/2sYLG2HLzAzFXKqF9).
+For convenience and demonstration purposes, this is currently implemented in 
+[Google forms](https://support.google.com/docs/answer/6281888?co=GENIE.Platform%3DDesktop&hl=en).
+However, we do encourage future users to choose other open source methods such
+as [SurveyJS](https://surveyjs.io/).
+
 
 ## Questionnaire templates
 
