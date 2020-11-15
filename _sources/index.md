@@ -13,14 +13,16 @@ titlesonly: true
 # Welcome  
 
 Hello everyone and welcome the overview and documenation page of GORELLA, we're excited you're here! Within these pages,
-we would like to present and describe a framework for a "Generalizable Outline for Realistic Empirical Life Science Lectures and their Applications" or in short GORELLA. Not only is this a great abbreviation, but hopefully also reminds people that we need to do something now to save the Gorilla as a species (for more information please check [http://igcp.org/](http://igcp.org/) and [https://www.wwf.org.uk/get-involved/schools/calendar/world-gorilla-day](https://www.wwf.org.uk/get-involved/schools/calendar/world-gorilla-day)). The 1-2-3 of all this here is that we wanted to create a [FAIR](https://en.wikipedia.org/wiki/FAIR_data) resource targeting the empirical training of students in a standardized, fair, open and inclusive manner. Furthermore, it is made in a way that supports interdisciplinarity and straightforward transfer, as well adaptation between different life sciences. We hope you'll find it useful and set up in comprehensive way. If you have any questions, problems or feedback, please don't hesitate to get in touch with us.
-
-
+we would like to present and describe a framework for a "Generalizable Outline for Realistic Empirical Life Science Lectures and their Applications" or in short GORELLA. Not only is this a great abbreviation, but hopefully also reminds people that we need to do something now to save the Gorilla as a species (for more information please check [http://igcp.org/](http://igcp.org/) and [https://www.wwf.org.uk/get-involved/schools/calendar/world-gorilla-day](https://www.wwf.org.uk/get-involved/schools/calendar/world-gorilla-day)). The 1-2-3 of all this here is that we wanted to create a [FAIR](https://en.wikipedia.org/wiki/FAIR_data) resource targeting the empirical training of students in a standardized, fair, open and inclusive manner. Furthermore, it is made in a way that supports interdisciplinarity and straightforward transfer, as well adaptation between different life sciences.
 ````{margin}
 ```{admonition} An interactive reading experience
 The main idea for this Jupyter Book is to let you interactively explore our dataset.
 ```
 ````
+We hope you'll find it useful and set up in comprehensive way. If you have any questions, problems or feedback, please don't hesitate to get in touch with us.
+
+
+
 
 ## What's all this now?
 
