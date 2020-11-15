@@ -8,6 +8,12 @@ titlesonly: true
 ```
 
 
+````{margin}
+```{admonition} An interactive reading experience
+The main idea for this Jupyter Book is to let you interactively explore our dataset.
+```
+````
+
 ![gorella logo](static/gorella_logo.png)
 
 # Welcome  
