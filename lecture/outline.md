@@ -18,4 +18,3 @@ for each of the modules as a basis for teaching and practical implementation
 of the framework.
 
 ![outline](static/gorella_outline.png)
-
