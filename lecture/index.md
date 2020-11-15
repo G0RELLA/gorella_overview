@@ -14,11 +14,7 @@ titlesonly: true
 :class: warning
 This page is currently under construction and will be updated continiously. Please visit this page again in the next weeks for further information.
 ```
-````{margin}
-```{admonition} Under construction
-This page is currently under construction and will be updated continiously
-```
-````
+
 # Welcome  
 
 Hello everyone and welcome the overview and documenation page of GORELLA, we're excited you're here! Within these pages,
