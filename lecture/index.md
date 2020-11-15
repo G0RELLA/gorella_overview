@@ -15,8 +15,8 @@ titlesonly: true
 This page is currently under construction and will be updated continiously. Please visit this page again in the next weeks for further information.
 ```
 ````{margin}
-```{admonition} An interactive reading experience
-The main idea for this Jupyter Book is to let you interactively explore our dataset.
+```{admonition} Under construction
+This page is currently under construction and will be updated continiously
 ```
 ````
 # Welcome  
