@@ -54,53 +54,53 @@ goal-oriented manner. We gave our best to condense the last five years of our
 lives to something y'all can make use and sense of.
 The result is the already mentioned TOC, which includes the following sections:
 
-* [GORELLA - an overview](https://gorella.netlify.app/overview.html)
+* [GORELLA - an overview](https://g0rella.github.io/gorella_overview/index.html)
 
    What's the problem and how are we propose to solve it?
 
-* [General procedure](https://gorella.netlify.app/procedure.html)
+* [General procedure](https://g0rella.github.io/gorella_overview/procedure.html)
 
    How are things implemented and supposed to work?
 
-* [General outline](https://gorella.netlify.app/outline.html)
+* [General outline](https://g0rella.github.io/gorella_overview/outline.html)
 
    What are the specific topics and aspects taught?
 
-* [Introduction & theory building](https://gorella.netlify.app/introduction_theory_building.html)
+* [Introduction & theory building](https://g0rella.github.io/gorella_overview/introduction_theory_building.html)
 
    All things gotta start somewhere and scientific projects are no exception to
    that, but how?
 
-* [Data analyses](https://gorella.netlify.app/data_analyses.html)
+* [Data analyses](https://g0rella.github.io/gorella_overview/data_analyses.html)
 
    How to obtain insights from data?
 
-* [Results communication](https://gorella.netlify.app/results_communication.html)
+* [Results communication](https://g0rella.github.io/gorella_overview/results_communication.html)
 
    Where should the acquired knowledge to be disseminated?
 
-* [Symposium](https://gorella.netlify.app/symposium.html)
+* [Symposium](https://g0rella.github.io/gorella_overview/symposium.html)
 
    What to do about outreach and discourse creation?
 
-* [Student projects](https://gorella.netlify.app/projects.html)
+* [Student projects](https://g0rella.github.io/gorella_overview/projects.html)
 
    Making sure the work and progress of the participants is transparent and
    documented.
 
-* [Questionnaires](https://gorella.netlify.app/questionnaires.html)
+* [Questionnaires](https://g0rella.github.io/gorella_overview/questionnaires.html)
 
    Was it worth it and how can this be evaluated?
 
-* [The GORELLA base skeleton](https://gorella.netlify.app/base.html)
+* [The GORELLA base skeleton](https://g0rella.github.io/gorella_overview/base.html)
 
    Where are the materials?   
 
-* [GORELLA tutorial](https://gorella.netlify.app/tutorial.html)
+* [GORELLA tutorial](https://g0rella.github.io/gorella_overview/tutorial.html)
 
    Are there guidelines on how to start?
 
-* [Code of Conduct](https://gorella.netlify.app/coc)
+* [Code of Conduct](https://g0rella.github.io/gorella_overview/CoC.html)
 
    Necessities for creating an open, fair, safe and inclusive learning
    experience.
