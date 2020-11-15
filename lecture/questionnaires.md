@@ -12,9 +12,11 @@ them.
 ````{margin}
 ```{admonition}  About the content of this Jupyter Book
 :class: warning
-This page is currently under construction and will be updated continiously. Please visit this page again in the next weeks for further information.
+This page is currently under construction and will be updated continiously.
+Please visit this page again in the next feew weeks for further information.
 ```
 ````
+
 Here, we provide a standardized method for the assessment of this type of
 characteristics as students progress throughout the development
 of their own projects.
