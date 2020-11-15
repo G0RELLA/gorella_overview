@@ -9,6 +9,12 @@ It is divided into the following sections:
 [into the wild](),
 and [important points]().
 
+````{margin}
+```{admonition}  About the content of this Jupyter Book
+:class: warning
+This page is currently under construction and will be updated continiously. Please visit this page again in the next weeks for further information.
+```
+````
 ## Prerequisites
 
 ## Getting the materials
