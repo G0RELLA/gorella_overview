@@ -8,7 +8,7 @@ information, the problem and how we want to address it.
 ```{admonition}  About the content of this Jupyter Book
 :class: warning
 This page is currently under construction and will be updated continiously.
-Please visit this page again in the next feew weeks for further information.
+Please visit this page again in the next few weeks for further information.
 ```
 ````
 
@@ -19,7 +19,7 @@ observed deficits in the empirical training (or at least in the
 application of empirical research methods) among students. We believe that is
 partly due to the rapid development of scientific methods.
 On the other hand, our experience shows that the "old-way" of teaching
-scientific methods allows one to pay only limited attention is paid to topics
+scientific methods allows one to pay only limited attention to topics
 such as:
 - the individual development of contemporary and practice-oriented scientific
 "hard" (e.g. programming skills, application of tools) and "soft" skills
@@ -32,8 +32,8 @@ of what is learned.
 
 ## The proposed solution
 
-With GORELLA we want to create a framework that can be used as a basis for
-empirical teaching/training. The focus is not on frontal teaching, but on the
+With _GORELLA_ we want to create a framework that can be used as a basis for
+empirical teaching/training. The focus is not on the chalk and board technique, but on the
 dynamic communication of content and realistic goal-setting.
-For this purpose, different areas of Open Science (see procedure)
-are projected onto the life cycle of a project (see outline).
+For this purpose, different areas of Open Science (see [procedure](https://g0rella.github.io/gorella_overview/procedure.html))
+are projected onto the life cycle of a project (see [outline](https://g0rella.github.io/gorella_overview/outline.html)).
