@@ -1,5 +1,9 @@
 # G0RELLA - Overview
 
+![logo](lecture/static/gorella_logo.png)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4276460.svg)](https://doi.org/10.5281/zenodo.4276460)
+
 ## "What's in this repository?"
 
 This repository contains the general G0RELLA documentation in the same style as the lectures.
