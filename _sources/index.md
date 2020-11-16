@@ -106,6 +106,13 @@ The result is the already mentioned TOC, which includes the following sections:
    Necessities for creating an open, fair, safe and inclusive learning
    experience.
 
+## How to use this resource & its features
+
+You can navigate through the respective sections via the TOC on the left side and within sections via the TOC on the right side. 
+The three symbols in the top allow to enable full screen mode, link to the underlying Github repository and allow you to download the walkthrough
+as a `pdf` or `markdown file` respectively. Additionally, we support public reviews and comments through an [hypothes.is](https://web.hypothes.is/) plugin 
+with which you can interact on the right side. All of this awesomeness (talking about the infrastructure and resource) is possible through the dedicated and second to none work of the [Jupyter community](https://jupyter.org/community), specifically, the [Executable/Jupyter Book](https://jupyterbook.org/intro.html) and [mybinder project](https://mybinder.org/).
+
 ## The folks and their motivation
 
 We are three people that were tired of the way the majority of empirical
