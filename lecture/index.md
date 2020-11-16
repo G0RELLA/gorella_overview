@@ -12,7 +12,7 @@ titlesonly: true
 ```{admonition} About the content of this Jupyter Book
 :class: warning
 This page is currently under construction and will be updated continiously.
-Please visit this page again in the next feew weeks for further information.
+Please visit this page again in the next few weeks for further information.
 ```
 
 # Welcome  
@@ -110,7 +110,7 @@ The result is the already mentioned TOC, which includes the following sections:
 
 We are three people that were tired of the way the majority of empirical
 training of students is conducted. This entails [José C. García Alanis](),
-[Peer Herholz](), and [Christoph Vogelbacher](), all of whom coming from
+[Peer Herholz](https://peerherholz.github.io/), and [Christoph Vogelbacher](), all of whom coming from
 mixed background including psychology, neuroscience, data science and
 informatics. Over a time span of several years, we've step-wise increasing our
 efforts to improve the way empirical methods are communicated and taught.
@@ -137,4 +137,4 @@ and we all need to get active to change things for the better. The key
 is open and fair collaboration via basis democratic decision making, where
 everyone (no matter you degree, status or background) is equal. For further
 information, please consult our
-[Code of Conduct](https://gorella.netlify.app/coc).
+[Code of Conduct](https://g0rella.github.io/gorella_overview/CoC.html).
