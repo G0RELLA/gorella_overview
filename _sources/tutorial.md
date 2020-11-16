@@ -13,7 +13,7 @@ and [important points]().
 ```{admonition}  About the content of this Jupyter Book
 :class: warning
 This page is currently under construction and will be updated continiously.
-Please visit this page again in the next feew weeks for further information.
+Please visit this page again in the next few weeks for further information.
 ```
 ````
 ## Prerequisites
