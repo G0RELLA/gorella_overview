@@ -161,7 +161,7 @@ actively participate?
 **2.8)** How satisfied are you with the didactic methods used during
 the training/lecture?
 
-| **no, not ar all** |     |     |     |     |     | **yes, entirely** |
+| **no, not at all** |     |     |     |     |     | **yes, entirely** |
 |:------------------:|-----|-----|-----|-----|-----|:-----------------:|
 | (1)                | (2) | (3) | (4) | (5) | (6) | (7)               |
 
