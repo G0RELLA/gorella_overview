@@ -9,6 +9,8 @@ titlesonly: true
 
 ![gorella logo](static/gorella_logo.png)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4276460.svg)](https://doi.org/10.5281/zenodo.4276460)
+
 ```{admonition} About the content of this Jupyter Book
 :class: warning
 This page is currently under construction and will be updated continiously.
